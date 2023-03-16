@@ -1,0 +1,41 @@
+#home{
+    height: 820px;
+}
+
+.headings{
+    font-size: 1.7rem;
+}
+
+#pic img{
+    width: 300px;
+    height: 175px;
+}
+#intro h2{
+    font-size:1.5rem;
+}
+
+.row .box img{
+    width: 250px;
+    height: 150px;
+    margin: 10px;
+}
+
+.input{
+    width: 80%;
+}
+#message{
+    width: 70%;
+}
+#Submit{
+    width: 20%;
+}
+
+
+#skill .skill-cols{
+    grid-template-columns: repeat(1,1fr);
+    grid-gap: 20px;
+    }
+
+    .resume{
+        width: 180px;
+    }
